@@ -1,5 +1,12 @@
+
+<blockquote>
+<p dir="auto">
+This Project will walk you through using Truffle and Ganache to deploy the SimpleStorage contract, making calls to it, and sending transactions to change the contract's state..</p>
+</blockquote>
+
 # Truffle
 <br/>
+
 
 ### Installation
 
@@ -32,6 +39,12 @@ This is the command for unboxing or getting the React project template. More tru
 <li><strong>Run Dev Server:</strong><code>cd client & npm run start</code>. Start the react dev server.</li>
 <li><strong>Build for Production:</strong><code>cd client & npm run build</code></li>
 </ul>
+
+
+# Ganache
+<br/>
+
+In this project we will use a test network for deploying contracts. For setting up ganache in project, firstly we need to install it. I did traing how you can install it via terminal in pervious project. This time I'm goting to train to install ganache from UI. Open https://trufflesuite.com/ganache/  and click on <strong>Download</strong>
 
 
 
